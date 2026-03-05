@@ -55,3 +55,65 @@ Possible solution:
 Customers who contacted the call center **4 or more times always canceled**.
 
 Possible solution:
+If a customer calls 3 times → trigger churn risk alert
+
+
+---
+
+### Payment Delay
+After **20 days of delay**, the probability of cancellation increases.
+
+Possible solution:
+- offer payment negotiation or installment options
+
+---
+
+### Subscription Duration
+**All monthly subscribers canceled.**
+
+Possible solution:
+- offer stronger discounts for annual subscriptions
+
+---
+
+### Total Amount Spent
+Customers who spent **less than 500 currency units canceled more often**.
+
+Possible solution:
+- increase product engagement and usage
+
+---
+
+### Last Interaction
+Customers with **15 months without interaction showed higher churn rates**.
+
+Possible solution:
+- send product updates and engagement campaigns
+
+---
+
+# 📈 Visualizations
+
+The analysis includes charts such as:
+
+- age vs churn
+- gender vs churn
+- behavioral patterns of customers
+
+These visualizations help identify trends and support business decisions.
+
+---
+
+# 🚀 Future Improvements
+
+Possible improvements for the project:
+
+- build a machine learning churn prediction model
+- create dashboards for visualization
+- automate churn risk detection
+
+---
+
+# 💡 Conclusion
+
+This project demonstrates how data analysis can help companies understand customer behavior and reduce churn through data-driven strategies.
